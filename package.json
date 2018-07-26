@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Gestión de libros",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "ataratiela",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.5",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.18.3"
+  }
+}
